@@ -1,2 +1,7 @@
-# waveshield-cracked
-This is a anticheat for fivem Cracked by Korioz &amp; MasterLua
+# WaveShield Cracked
+
+## Prerequisite
+- To install it you will need mysql-async only !
+
+## Credit
+💖 Cracked by MasterLua#9998 & Korioz#3310
